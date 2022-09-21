@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: Gone Fishin'
+## Notes: Another day with the fishes.
+## Author: RemBen
+## Version: 0.1
+
+GoneFishin.lua
